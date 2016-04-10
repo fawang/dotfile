@@ -51,7 +51,7 @@ alias publicip='curl ifconfig.me'
 
 
 # Vim
-alias vim='mvim'
+# alias vim='mvim'
 
 # Helpers
 alias grep='grep --color=auto'
